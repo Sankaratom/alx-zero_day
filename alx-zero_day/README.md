@@ -1,0 +1,1 @@
+This is a mandatory document in all alx projects
